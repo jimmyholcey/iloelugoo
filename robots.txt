@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://booghahwu.flexxse.al/sitemap.xml
